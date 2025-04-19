@@ -1,0 +1,1 @@
+Email System (Templates & Cloning)  ->	Prototype	->  Clone emails with different recipients/content.
